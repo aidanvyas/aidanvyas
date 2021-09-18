@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aidanvyas
+- 👀 I’m interested in software engineering, quantative trading, and machine learning.
+- 🌱 I’m currently learning at Rice University.
+- 💞️ I’m looking to collaborate on sports, electoral, and stock predictions.
+- 📫 How to reach me: aidanvyas@gmail.com; 832-499-5541
